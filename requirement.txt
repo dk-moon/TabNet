@@ -1,0 +1,2 @@
+pytorch<2.x
+pytorch-tabnet
